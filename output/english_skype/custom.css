@@ -1,0 +1,24 @@
+.t228__right_buttons_but > .t-btn {
+  background-color: yellow !important;
+}
+
+a.lang {
+  display: inline-block;
+  color: white !important;
+  text-decoration: none;
+  text-align: center;
+  font-size: 10px;
+  font-weight: 100;
+  font-family: sans-serif;
+}
+
+.t573 a.lang {
+  color: black !important;
+}
+
+.t228 .t-btn {
+  height: auto;
+  font-size: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
