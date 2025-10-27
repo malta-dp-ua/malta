@@ -38,8 +38,8 @@ This generates the static site content in the `docs/` directory, which is used b
 
 This project is configured to deploy automatically via GitHub Pages:
 
-- The compiled site lives in the docs/ folder
-- GitHub Pages is set to serve from the docs/ folder on the main branch
+- The compiled site lives in the `docs/` folder
+- GitHub Pages is set to serve from the `docs/` folder on the main branch
 - Every git push to `main` branch triggers a redeploy
 
 ### ✅ To deploy:
