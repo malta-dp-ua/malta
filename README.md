@@ -26,6 +26,14 @@ cd malta
 gem install nanoc
 ```
 
+### 3. Build the Site
+
+```
+nanoc
+```
+
+This generates the static site content in the `docs/` directory, which is used by GitHub Pages.
+
 ## 🌍 Deployment to GitHub Pages
 
 This project is configured to deploy automatically via GitHub Pages:
